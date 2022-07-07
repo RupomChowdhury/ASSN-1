@@ -61,7 +61,7 @@ a{
 }
 
 #bg-img{
-    background-image: url("/assests/img/donation5.jpg");
+    background-image: url("assests/img/donation5.jpg");
     background-color: #cccccc;
     width: 1440px;
     height: 669px;
