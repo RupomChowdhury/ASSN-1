@@ -366,7 +366,7 @@ h3{
     position: absolute;
     width: 482px;
     height: 374px;
-    right: 450px;
+    right: 435px;
     top: 3000px;
 
 }
@@ -381,7 +381,7 @@ h3{
 }
 
 .update{
-    margin-left: 550px;
+    margin-left: 480px;
     margin-top: 1800px;
 }
 .sub{
@@ -395,14 +395,14 @@ h3{
     position: absolute;
     width: 432px;
     height: 48px;
-    left: 440px;
+    left: 360px;
     top: 14px;
 }
 #btn4{
     position: absolute;
     width: 158px;
     height: 53px;
-    left: 540px;
+    left: 460px;
     top: 0px;
     background: #FF5959;
     border-radius: 0px 5px 5px 0px;
